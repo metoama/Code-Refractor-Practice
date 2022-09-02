@@ -10,6 +10,9 @@ This will be used as a reference to proper execution of HTML semantics and conso
 
 ## Submission 
 
+Deployed Application: https://metoama.github.io/Code-Refractor-Practice/ 
+Git Hub Repository: https://github.com/metoama/Code-Refractor-Practice
+
 ## Screenshot
 
 ![Code-Refractor-Practice](https://user-images.githubusercontent.com/111612981/188044347-b040e8d4-1244-451c-8482-addd310b0fdf.png)
