@@ -8,6 +8,9 @@ This practice project was used to demonstrate potential future employment practi
 
 This will be used as a reference to proper execution of HTML semantics and consolidating CSS attributes.
 
-##Screenshot
+## Submission 
+
+## Screenshot
+
 ![Code-Refractor-Practice](https://user-images.githubusercontent.com/111612981/188044347-b040e8d4-1244-451c-8482-addd310b0fdf.png)
 
